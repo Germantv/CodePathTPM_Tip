@@ -4,7 +4,7 @@
 
 Submitted by: **German Flores Alcala**
 
-Time spent: **10** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## User Stories
 
