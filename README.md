@@ -24,8 +24,9 @@ The following **required** functionality is complete:
 
     The following **additional** features are implemented:
 
-    - [ ] List anything else that you can get done to improve the app
+    - [x] List anything else that you can get done to improve the app
       functionality!
+      * [x] Added AutoLayout constraints to the app's objects. 
 
 ## Video Walkthrough 
 
